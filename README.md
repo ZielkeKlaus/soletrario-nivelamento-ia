@@ -42,8 +42,3 @@ Klaus Zielke
 ## 📚 Referências
 - Documentação do OpenRouter.
 - Materiais da disciplina de Inteligência Artificial.
-
----
-Este README descreve de forma clara e completa o propósito e o funcionamento do
-projeto, permitindo que qualquer colaborador ou avaliador compreenda facilmente
-a ideia e a estrutura do trabalho.
