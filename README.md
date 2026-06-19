@@ -27,7 +27,7 @@ O modelo analisa as respostas do usuário e recomenda a fase inicial ideal.
 
 ## 🚀 Instalação e Uso
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/soletrario.git
+   git clone [https://github.com/seu-usuario/soletrario.git](https://github.com/ZielkeKlaus/soletrario-nivelamento-ia.git)
 2. Instale as dependências do projeto.
 3. Crie um arquivo `.env` com sua chave de API.
 4. Execute o projeto.
