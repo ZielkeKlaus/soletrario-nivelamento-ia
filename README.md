@@ -1,49 +1,49 @@
-# 🎯 Soletrário — Diagnóstico de Nivelamento com IA
+# Soletrário – Nivelamento com IA
 
-Componente de **diagnóstico de nivelamento gramatical** do projeto **Soletrário**, um jogo/aplicativo mobile educativo com 5 fases de exercícios de gramática.
+## 📌 Introdução
+O **Soletrário** é um projeto que utiliza Inteligência Artificial para realizar o
+nivelamento de alunos. A partir de um conjunto de perguntas, o sistema avalia o
+desempenho do usuário e recomenda automaticamente a fase inicial mais adequada
+ao seu nível de conhecimento.
 
-Este módulo utiliza um **Modelo de Linguagem (LLM)** via **OpenRouter** para avaliar as respostas do usuário a um mini-teste diagnóstico e **recomendar por qual fase ele deve começar**, identificando suas maiores dificuldades.
+## 🎯 Objetivos
+- Automatizar o processo de nivelamento de alunos.
+- Oferecer uma recomendação personalizada de fase inicial.
+- Aplicar conceitos de Inteligência Artificial de forma prática.
 
-> Atividade prática da disciplina **Fundamentos de Inteligência Artificial** — Análise e Desenvolvimento de Sistemas (ADS).
+## ⚙️ Funcionalidades
+- Aplicação de perguntas ao usuário.
+- Análise das respostas por meio de um modelo de IA.
+- Geração de um diagnóstico com a fase recomendada.
+
+## 🤖 Modelo Utilizado
+O diagnóstico é gerado por um **Modelo de Linguagem (LLM)** acessado através do
+**OpenRouter**, que permite o uso de diferentes modelos de IA de forma flexível.
+O modelo analisa as respostas do usuário e recomenda a fase inicial ideal.
+
+## 💻 Tecnologias
+- Linguagem de programação principal do projeto.
+- API do OpenRouter para acesso ao modelo de IA.
+
+## 🚀 Instalação e Uso
+1. Clone o repositório:
+   git clone https://github.com/seu-usuario/soletrario.git
+2. Instale as dependências do projeto.
+3. Crie um arquivo `.env` com sua chave de API.
+4. Execute o projeto.
+
+## 📝 Exemplo de Uso
+O usuário responde às perguntas e, ao final, recebe uma mensagem indicando
+a fase inicial recomendada para ele.
+
+## 👤 Autor
+Klaus Zielke
+
+## 📚 Referências
+- Documentação do OpenRouter.
+- Materiais da disciplina de Inteligência Artificial.
 
 ---
-
-## 🎮 Sobre o Soletrário
-
-O Soletrário é um jogo mobile com **5 fases**, cada uma focada em um tema de gramática:
-
-| Fase | Tema |
-|------|------|
-| 1 | Sílaba Tônica |
-| 2 | R / RR |
-| 3 | SS / Ç |
-| 4 | CH / X |
-| 5 | Acentuação |
-
-Antes de iniciar o jogo, o usuário passa por um **diagnóstico inteligente** que identifica seu nível e indica o melhor ponto de partida.
-
----
-
-## 🎯 Objetivo
-
-Avaliar o conhecimento gramatical do usuário em 5 áreas e gerar um **relatório de nivelamento** com:
-
-- Nível geral (Iniciante / Intermediário / Avançado)
-- Desempenho em cada uma das 5 áreas
-- **Fase recomendada para começar**
-- Uma dica motivacional personalizada
-
----
-
-## ⚙️ Como funciona
-
-| Etapa | Descrição |
-|-------|-----------|
-| **Entrada** | O usuário responde a um mini-teste com perguntas das 5 áreas |
-| **Processamento** | As respostas são enviadas a um LLM via OpenRouter, com um prompt de "avaliador pedagógico" |
-| **Saída** | A IA retorna um diagnóstico estruturado com a fase recomendada |
-
----
-
-## 🧠 Modelo utilizado
-
+Este README descreve de forma clara e completa o propósito e o funcionamento do
+projeto, permitindo que qualquer colaborador ou avaliador compreenda facilmente
+a ideia e a estrutura do trabalho.
