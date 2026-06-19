@@ -22,8 +22,11 @@ O diagnóstico é gerado por um **Modelo de Linguagem (LLM)** acessado através 
 O modelo analisa as respostas do usuário e recomenda a fase inicial ideal.
 
 ##  Tecnologias
-- Linguagem de programação principal do projeto.
-- API do OpenRouter para acesso ao modelo de IA.
+- React Native
+- Expo
+- JavaScript
+- OpenRouter API
+- Firebase Firestore
 
 ##  Instalação e Uso
 1. Clone o repositório:
@@ -36,9 +39,3 @@ O modelo analisa as respostas do usuário e recomenda a fase inicial ideal.
 O usuário responde às perguntas e, ao final, recebe uma mensagem indicando
 a fase inicial recomendada para ele.
 
-##  Autor
-Klaus Zielke
-
-##  Referências
-- Documentação do OpenRouter.
-- Materiais da disciplina de Inteligência Artificial.
