@@ -1,0 +1,1 @@
+Pasta para armazenar as ilustrações do Nico e dos objetos dos exercícios.

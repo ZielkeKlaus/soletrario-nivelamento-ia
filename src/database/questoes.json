@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "xc01",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_UVA",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHUVA! Palavras com som de 'txu' no início geralmente usam CH. chu-VA!",
+    "imagem_sugestao": "chuva.png"
+  },
+  {
+    "id": "xc02",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_ADREZ",
+    "opcoes": ["CH", "X"],
+    "res_correta": "X",
+    "dica_nico": "Dica do Nico: XADREZ! Palavras que começam com o som 'sha' geralmente usam X. xa-DREZ!",
+    "imagem_sugestao": "xadrez.png"
+  },
+  {
+    "id": "xc03",
+    "tema": "X/CH",
+    "tipo": "lacuna_meio",
+    "pergunta": "MO_ILA",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: MOCHILA! Embora tenha som de 'x', mochila de escola usa CH no meio. mo-CHI-la!",
+    "imagem_sugestao": "mochila.png"
+  },
+  {
+    "id": "xc04",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_OCOLATE",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHOCOLATE! Que delícia! Chocolate começa com CH, igual a cheiro bom!",
+    "imagem_sugestao": "chocolate.png"
+  },
+  {
+    "id": "xc05",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_AVEIRO (porta-chaves)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHAVEIRO! O porta-chaves começa com CH, igual a chave e chuva. CHA-vei-ro!",
+    "imagem_sugestao": "chaveiro.png"
+  },
+  {
+    "id": "xc06",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_UPETA",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHUPETA! A chupeta do bebê começa com CH, igual a choro e chuva!",
+    "imagem_sugestao": "chupeta.png"
+  },
+  {
+    "id": "xc07",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_EQUE",
+    "opcoes": ["CH", "X"],
+    "res_correta": "X",
+    "dica_nico": "Dica do Nico: XEQUE! O xeque do rei no xadrez começa com X!",
+    "imagem_sugestao": "xeque.png"
+  },
+  {
+    "id": "xc08",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_ÁCARA",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHÁCARA! A chácara fica no campo e começa com CH, igual a chão e chave!",
+    "imagem_sugestao": "chacara.png"
+  },
+  {
+    "id": "xc09",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_INELO (calçado de estar em casa)",
+    "opcoes": ["CH", "X"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHINELO! O calçadinho de casa começa com CH, igual a chave e chocolate. CHI-ne-lo!",
+    "imagem_sugestao": "chinelo.png"
+  },
+  {
+    "id": "xc10",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_AMADA",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHAMA! A chama do fogo começa com CH, quente e brilhante!",
+    "imagem_sugestao": "chama.png"
+  },
+  {
+    "id": "xc11",
+    "tema": "X/CH",
+    "tipo": "lacuna_meio",
+    "pergunta": "FI_A",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: FICHA! A ficha do jogo usa CH no meio, igual a colcha e bicho!",
+    "imagem_sugestao": "ficha.png"
+  },
+  {
+    "id": "xc12",
+    "tema": "X/CH",
+    "tipo": "lacuna_meio",
+    "pergunta": "PE_E",
+    "opcoes": ["CH", "X"],
+    "res_correta": "X",
+    "dica_nico": "Dica do Nico: PEIXE! O peixe nada no mar e tem X no meio. pei-XE!",
+    "imagem_sugestao": "peixe.png"
+  },
+  {
+    "id": "xc13",
+    "tema": "X/CH",
+    "tipo": "lacuna_meio",
+    "pergunta": "BOLA_A (biscoito redondo)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: BOLACHA! A bolacha gostosa tem CH no meio. bo-LA-CHA!",
+    "imagem_sugestao": "bolacha.png"
+  },
+  {
+    "id": "xc14",
+    "tema": "X/CH",
+    "tipo": "lacuna_meio",
+    "pergunta": "CAI_A",
+    "opcoes": ["X", "CH"],
+    "res_correta": "X",
+    "dica_nico": "Dica do Nico: CAIXA! A caixa de papelão tem X no meio, bem forte. cai-XA!",
+    "imagem_sugestao": "caixa.png"
+  },
+  {
+    "id": "xc15",
+    "tema": "X/CH",
+    "tipo": "lacuna_meio",
+    "pergunta": "BI_O (animal assustador)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: BICHO! O bicho assustador usa CH no meio. bi-CHO!",
+    "imagem_sugestao": "bicho.png"
+  },
+  {
+    "id": "xc16",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_UVEIRO (onde se toma banho)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHUVEIRO! Onde você toma banho começa com CH, igual a chuva e chave. CHU-vei-ro!",
+    "imagem_sugestao": "chuveiro.png"
+  },
+  {
+    "id": "xc17",
+    "tema": "X/CH",
+    "tipo": "lacuna_meio",
+    "pergunta": "CAI_EIRO (cano de água)",
+    "opcoes": ["CH", "X"],
+    "res_correta": "X",
+    "dica_nico": "Dica do Nico: CAIXEIRO! Tem X no meio, igual a caixa. cai-XEI-ro!",
+    "imagem_sugestao": "caixeiro.png"
+  },
+  {
+    "id": "xc18",
+    "tema": "X/CH",
+    "tipo": "lacuna_meio",
+    "pergunta": "FA_ADA (frente do prédio)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: FACHADA! A fachada do prédio usa CH no meio, igual a chave. fa-CHA-da!",
+    "imagem_sugestao": "fachada.png"
+  },
+  {
+    "id": "xc19",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_ERIFE (policial do velho oeste)",
+    "opcoes": ["CH", "X"],
+    "res_correta": "X",
+    "dica_nico": "Dica do Nico: XERIFE! O policial do velho oeste começa com X bem forte. XE-ri-fe!",
+    "imagem_sugestao": "xerife.png"
+  },
+  {
+    "id": "xc20",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_OCANTE (que surpreende ou emociona)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHOCANTE! Algo que surpreende começa com CH, igual a choque e chocolate. CHO-can-te!",
+    "imagem_sugestao": "chocante.png"
+  },
+  {
+    "id": "xc21",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_AVE",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHAVE! A chave abre a porta e começa com CH. CHA-ve!",
+    "imagem_sugestao": "chave.png"
+  },
+  {
+    "id": "xc22",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_ICARA (vasilha para café)",
+    "opcoes": ["CH", "X"],
+    "res_correta": "X",
+    "dica_nico": "Dica do Nico: XÍCARA! A xícara de café começa com X, igual a xarope e xadrez!",
+    "imagem_sugestao": "xicara.png"
+  },
+  {
+    "id": "xc23",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_EFÃO (o chefe grande)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHEFÃO! O chefão manda em tudo e começa com CH!",
+    "imagem_sugestao": "chefao.png"
+  },
+  {
+    "id": "xc24",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_AROPE (remédio líquido)",
+    "opcoes": ["CH", "X"],
+    "res_correta": "X",
+    "dica_nico": "Dica do Nico: XAROPE! O xarope é amargo, mas começa com X bem forte!",
+    "imagem_sugestao": "xarope.png"
+  },
+  {
+    "id": "xc25",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_ORÃO (o que chora muito)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHORÃO! O chorão chora muito e começa com CH!",
+    "imagem_sugestao": "chorao.png"
+  },
+  {
+    "id": "xc26",
+    "tema": "X/CH",
+    "tipo": "lacuna_meio",
+    "pergunta": "EN_URRO (água que empoça)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "X",
+    "dica_nico": "Dica do Nico: ENXURRO! Água correndo com força tem X no meio. en-XUR-ro!",
+    "imagem_sugestao": "enxurro.png"
+  },
+  {
+    "id": "xc27",
+    "tema": "X/CH",
+    "tipo": "lacuna_meio",
+    "pergunta": "COL_A (manta de cama)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: COCHILHA... é COLCHA! col-CHA — CH no meio com som forte!",
+    "imagem_sugestao": "colcha.png"
+  },
+  {
+    "id": "xc28",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_OCALHO (brinquedo que faz barulho)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHOCALHO! O chocalho do bebê faz barulho e começa com CH!",
+    "imagem_sugestao": "chocalho.png"
+  },
+  {
+    "id": "xc29",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_EGAR (alcançar um lugar)",
+    "opcoes": ["X", "CH"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHEGAR! Quando você chega em casa, começa com CH. che-GAR!",
+    "imagem_sugestao": "chegar.png"
+  },
+  {
+    "id": "xc30",
+    "tema": "X/CH",
+    "tipo": "lacuna_inicio",
+    "pergunta": "_AMAR (chamar alguém)",
+    "opcoes": ["CH", "X"],
+    "res_correta": "CH",
+    "dica_nico": "Dica do Nico: CHAMAR! Quando você chama alguém, começa com CH. cha-MAR!",
+    "imagem_sugestao": "chamar.png"
+  },
+  {
+    "id": "ac01",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["cafe", "café"],
+    "res_correta": "café",
+    "dica_nico": "Dica do Nico: CAFÉ leva acento agudo no É! É oxítona terminada em E — esse caso sempre leva acento!",
+    "imagem_sugestao": "cafe.png"
+  },
+  {
+    "id": "ac02",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["avo", "avô"],
+    "res_correta": "avô",
+    "dica_nico": "Dica do Nico: AVÔ leva acento circunflexo! É oxítona terminada em O — o Ô fechado pede circunflexo!",
+    "imagem_sugestao": "avo.png"
+  },
+  {
+    "id": "ac03",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está acentuada corretamente?",
+    "opcoes": ["facil", "fácil"],
+    "res_correta": "fácil",
+    "dica_nico": "Dica do Nico: FÁCIL é paroxítona terminada em L — esse caso pede acento agudo no A!",
+    "imagem_sugestao": "facil.png"
+  },
+  {
+    "id": "ac04",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está acentuada corretamente?",
+    "opcoes": ["onibus", "ônibus"],
+    "res_correta": "ônibus",
+    "dica_nico": "Dica do Nico: ÔNIBUS é proparoxítona — palavras assim SEMPRE levam acento, sem exceção!",
+    "imagem_sugestao": "onibus.png"
+  },
+  {
+    "id": "ac05",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["medico", "médico"],
+    "res_correta": "médico",
+    "dica_nico": "Dica do Nico: MÉDICO é proparoxítona — a sílaba tônica é MÉ, então acento agudo nela!",
+    "imagem_sugestao": "medico.png"
+  },
+  {
+    "id": "ac06",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["lapis", "lápis"],
+    "res_correta": "lápis",
+    "dica_nico": "Dica do Nico: LÁPIS é paroxítona terminada em S — esse caso pede acento agudo no A!",
+    "imagem_sugestao": "lapis.png"
+  },
+  {
+    "id": "ac07",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está correto?",
+    "opcoes": ["passaro", "pássaro"],
+    "res_correta": "pássaro",
+    "dica_nico": "Dica do Nico: PÁSSARO é proparoxítona — PÁS é a sílaba forte, então acento agudo nela!",
+    "imagem_sugestao": "passaro.png"
+  },
+  {
+    "id": "ac08",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["numero", "número"],
+    "res_correta": "número",
+    "dica_nico": "Dica do Nico: NÚMERO é proparoxítona — toda proparoxítona leva acento, sem exceção!",
+    "imagem_sugestao": "numero.png"
+  },
+  {
+    "id": "ac09",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está acentuado corretamente?",
+    "opcoes": ["arvore", "árvore"],
+    "res_correta": "árvore",
+    "dica_nico": "Dica do Nico: ÁRVORE é proparoxítona — ÁR é a sílaba tônica e leva acento agudo!",
+    "imagem_sugestao": "arvore.png"
+  },
+  {
+    "id": "ac10",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["pijama", "píjama"],
+    "res_correta": "pijama",
+    "dica_nico": "Dica do Nico: PIJAMA não leva acento! É paroxítona terminada em A — paroxítonas em A não acentuamos!",
+    "imagem_sugestao": "pijama.png"
+  },
+  {
+    "id": "ac11",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está correto?",
+    "opcoes": ["junior", "júnior"],
+    "res_correta": "júnior",
+    "dica_nico": "Dica do Nico: JÚNIOR é paroxítona terminada em R — JÚ leva acento agudo!",
+    "imagem_sugestao": "junior.png"
+  },
+  {
+    "id": "ac12",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["taxi", "táxi"],
+    "res_correta": "táxi",
+    "dica_nico": "Dica do Nico: TÁXI é paroxítona terminada em I — o A tônico pede acento agudo!",
+    "imagem_sugestao": "taxi.png"
+  },
+  {
+    "id": "ac13",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está acentuado corretamente?",
+    "opcoes": ["revolver", "revólver"],
+    "res_correta": "revólver",
+    "dica_nico": "Dica do Nico: REVÓLVER é paroxítona terminada em R — VOL é tônico e leva acento!",
+    "imagem_sugestao": "revolver.png"
+  },
+  {
+    "id": "ac14",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["util", "útil"],
+    "res_correta": "útil",
+    "dica_nico": "Dica do Nico: ÚTIL é paroxítona terminada em L — o U tônico leva acento agudo!",
+    "imagem_sugestao": "util.png"
+  },
+  {
+    "id": "ac15",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está correto?",
+    "opcoes": ["acucar", "açúcar"],
+    "res_correta": "açúcar",
+    "dica_nico": "Dica do Nico: AÇÚCAR é paroxítona terminada em R — o Ú é tônico e leva acento agudo!",
+    "imagem_sugestao": "acucar.png"
+  },
+  {
+    "id": "ac16",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["fenomeno", "fenômeno"],
+    "res_correta": "fenômeno",
+    "dica_nico": "Dica do Nico: FENÔMENO é proparoxítona — NÔ é a sílaba tônica e leva circunflexo!",
+    "imagem_sugestao": "fenomeno.png"
+  },
+  {
+    "id": "ac17",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está correto?",
+    "opcoes": ["fisica", "física"],
+    "res_correta": "física",
+    "dica_nico": "Dica do Nico: FÍSICA é proparoxítona — FÍ é tônico e leva acento agudo!",
+    "imagem_sugestao": "fisica.png"
+  },
+  {
+    "id": "ac18",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["sabado", "sábado"],
+    "res_correta": "sábado",
+    "dica_nico": "Dica do Nico: SÁBADO é proparoxítona — SÁ é tônico e leva acento agudo!",
+    "imagem_sugestao": "sabado.png"
+  },
+  {
+    "id": "ac19",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está acentuado corretamente?",
+    "opcoes": ["bonus", "bônus"],
+    "res_correta": "bônus",
+    "dica_nico": "Dica do Nico: BÔNUS é paroxítona terminada em US — o Ô leva circunflexo!",
+    "imagem_sugestao": "bonus.png"
+  },
+  {
+    "id": "ac20",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["orgao", "órgão"],
+    "res_correta": "órgão",
+    "dica_nico": "Dica do Nico: ÓRGÃO leva acento agudo no Ó — paroxítona com ditongo nasal ÃO!",
+    "imagem_sugestao": "orgao.png"
+  },
+  {
+    "id": "ac21",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está correto?",
+    "opcoes": ["tonico", "tônico"],
+    "res_correta": "tônico",
+    "dica_nico": "Dica do Nico: TÔNICO é paroxítona — TÔ é a sílaba forte e leva circunflexo!",
+    "imagem_sugestao": "tonico.png"
+  },
+  {
+    "id": "ac22",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["catalogo", "catálogo"],
+    "res_correta": "catálogo",
+    "dica_nico": "Dica do Nico: CATÁLOGO é proparoxítona — TÁ é a sílaba tônica e leva acento agudo!",
+    "imagem_sugestao": "catalogo.png"
+  },
+  {
+    "id": "ac23",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está correto?",
+    "opcoes": ["publico", "público"],
+    "res_correta": "público",
+    "dica_nico": "Dica do Nico: PÚBLICO é proparoxítona — PÚ é a sílaba forte e leva acento agudo!",
+    "imagem_sugestao": "publico.png"
+  },
+  {
+    "id": "ac24",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["oxitona", "oxítona"],
+    "res_correta": "oxítona",
+    "dica_nico": "Dica do Nico: OXÍTONA é proparoxítona ela mesma — XÍ é tônico e leva acento agudo!",
+    "imagem_sugestao": "oxitona.png"
+  },
+  {
+    "id": "ac25",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está correto?",
+    "opcoes": ["paje", "pajé"],
+    "res_correta": "pajé",
+    "dica_nico": "Dica do Nico: PAJÉ é oxítona terminada em E — oxítonas terminadas em E sempre levam acento!",
+    "imagem_sugestao": "paje.png"
+  },
+  {
+    "id": "ac26",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["ceu", "céu"],
+    "res_correta": "céu",
+    "dica_nico": "Dica do Nico: CÉU leva acento agudo! É oxítona com ditongo aberto ÉU — acento obrigatório!",
+    "imagem_sugestao": "ceu.png"
+  },
+  {
+    "id": "ac27",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está correto?",
+    "opcoes": ["heroi", "herói"],
+    "res_correta": "herói",
+    "dica_nico": "Dica do Nico: HERÓI leva acento! É oxítona com ditongo aberto ÓI — acento agudo obrigatório!",
+    "imagem_sugestao": "heroi.png"
+  },
+  {
+    "id": "ac28",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["gráfia", "grafia"],
+    "res_correta": "grafia",
+    "dica_nico": "Dica do Nico: GRAFIA não leva acento! É paroxítona terminada em A — sem acento mesmo!",
+    "imagem_sugestao": "grafia.png"
+  },
+  {
+    "id": "ac29",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual está correto?",
+    "opcoes": ["ima", "ímã"],
+    "res_correta": "ímã",
+    "dica_nico": "Dica do Nico: ÍMÃ leva acento agudo no Í — é paroxítona com vogal nasal tônica!",
+    "imagem_sugestao": "ima.png"
+  },
+  {
+    "id": "ac30",
+    "tema": "Acentuação",
+    "tipo": "escolha",
+    "pergunta": "Qual palavra está correta?",
+    "opcoes": ["tunel", "túnel"],
+    "res_correta": "túnel",
+    "dica_nico": "Dica do Nico: TÚNEL é paroxítona terminada em L — o Ú tônico leva acento agudo!",
+    "imagem_sugestao": "tunel.png"
+  },
+  {
+    "id": "st01",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'CASA'?",
+    "opcoes": ["CA", "SA"],
+    "res_correta": "CA",
+    "dica_nico": "Dica do Nico: Em CASA, a sílaba mais forte é CA! Fala em voz alta: CA-sa. Ouviu? CA é mais forte!",
+    "imagem_sugestao": "casa.png"
+  },
+  {
+    "id": "st02",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'CAFÉ'?",
+    "opcoes": ["CA", "FÉ"],
+    "res_correta": "FÉ",
+    "dica_nico": "Dica do Nico: Em CAFÉ, a sílaba mais forte é FÉ! ca-FÉ — a última sílaba é a mais forte!",
+    "imagem_sugestao": "cafe.png"
+  },
+  {
+    "id": "st03",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'MÉDICO'?",
+    "opcoes": ["MÉ", "DI", "CO"],
+    "res_correta": "MÉ",
+    "dica_nico": "Dica do Nico: Em MÉDICO, a sílaba mais forte é MÉ! MÉ-di-co — a sílaba forte é a antepenúltima!",
+    "imagem_sugestao": "medico.png"
+  },
+  {
+    "id": "st04",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'JANELA'?",
+    "opcoes": ["JA", "NE", "LA"],
+    "res_correta": "NE",
+    "dica_nico": "Dica do Nico: Em JANELA, a sílaba mais forte é NE! ja-NE-la — a penúltima sílaba é a mais forte!",
+    "imagem_sugestao": "janela.png"
+  },
+  {
+    "id": "st05",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'ÔNIBUS'?",
+    "opcoes": ["ÔNI", "NI", "BUS"],
+    "res_correta": "ÔNI",
+    "dica_nico": "Dica do Nico: Em ÔNIBUS, a sílaba mais forte é ÔNI! Ô-ni-bus — é proparoxítona, a mais forte é a antepenúltima!",
+    "imagem_sugestao": "onibus.png"
+  },
+  {
+    "id": "st06",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'AMOR'?",
+    "opcoes": ["A", "MOR"],
+    "res_correta": "MOR",
+    "dica_nico": "Dica do Nico: Em AMOR, a sílaba mais forte é MOR! a-MOR — a última sílaba é a mais forte, é oxítona!",
+    "imagem_sugestao": "amor.png"
+  },
+  {
+    "id": "st07",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'ÁRVORE'?",
+    "opcoes": ["ÁR", "VO", "RE"],
+    "res_correta": "ÁR",
+    "dica_nico": "Dica do Nico: Em ÁRVORE, a sílaba mais forte é ÁR! ÁR-vo-re — é proparoxítona!",
+    "imagem_sugestao": "arvore.png"
+  },
+  {
+    "id": "st08",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'BONITO'?",
+    "opcoes": ["BO", "NI", "TO"],
+    "res_correta": "NI",
+    "dica_nico": "Dica do Nico: Em BONITO, a sílaba mais forte é NI! bo-NI-to — é paroxítona, a penúltima é a mais forte!",
+    "imagem_sugestao": "bonito.png"
+  },
+  {
+    "id": "st09",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'PÁSSARO'?",
+    "opcoes": ["PÁS", "SA", "RO"],
+    "res_correta": "PÁS",
+    "dica_nico": "Dica do Nico: Em PÁSSARO, a sílaba mais forte é PÁS! PÁS-sa-ro — é proparoxítona!",
+    "imagem_sugestao": "passaro.png"
+  },
+  {
+    "id": "st10",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'FELIZ'?",
+    "opcoes": ["FE", "LIZ"],
+    "res_correta": "LIZ",
+    "dica_nico": "Dica do Nico: Em FELIZ, a sílaba mais forte é LIZ! fe-LIZ — é oxítona, a última é a mais forte!",
+    "imagem_sugestao": "feliz.png"
+  },
+  {
+    "id": "st11",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Como se chama a palavra cuja sílaba tônica é a ÚLTIMA?",
+    "opcoes": ["Paroxítona", "Oxítona", "Proparoxítona"],
+    "res_correta": "Oxítona",
+    "dica_nico": "Dica do Nico: Quando a última sílaba é a mais forte, a palavra é OXÍTONA! Ex: ca-FÉ, a-MOR, fe-LIZ!",
+    "imagem_sugestao": "oxitona.png"
+  },
+  {
+    "id": "st12",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Como se chama a palavra cuja sílaba tônica é a PENÚLTIMA?",
+    "opcoes": ["Paroxítona", "Oxítona", "Proparoxítona"],
+    "res_correta": "Paroxítona",
+    "dica_nico": "Dica do Nico: Quando a penúltima sílaba é a mais forte, a palavra é PAROXÍTONA! Ex: CA-sa, bo-NI-to!",
+    "imagem_sugestao": "paroxitona.png"
+  },
+  {
+    "id": "st13",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Como se chama a palavra cuja sílaba tônica é a ANTEPENÚLTIMA?",
+    "opcoes": ["Paroxítona", "Oxítona", "Proparoxítona"],
+    "res_correta": "Proparoxítona",
+    "dica_nico": "Dica do Nico: Quando a antepenúltima sílaba é a mais forte, é PROPAROXÍTONA! Ex: MÉ-di-co, Ô-ni-bus!",
+    "imagem_sugestao": "proparoxitona.png"
+  },
+  {
+    "id": "st14",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "A palavra 'SÁBADO' é:",
+    "opcoes": ["Oxítona", "Paroxítona", "Proparoxítona"],
+    "res_correta": "Proparoxítona",
+    "dica_nico": "Dica do Nico: SÁ-ba-do — a sílaba forte é a antepenúltima SÁ, então é proparoxítona!",
+    "imagem_sugestao": "sabado.png"
+  },
+  {
+    "id": "st15",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "A palavra 'MESA' é:",
+    "opcoes": ["Oxítona", "Paroxítona", "Proparoxítona"],
+    "res_correta": "Paroxítona",
+    "dica_nico": "Dica do Nico: ME-sa — a sílaba forte é a penúltima ME, então é paroxítona!",
+    "imagem_sugestao": "mesa.png"
+  },
+  {
+    "id": "st16",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "A palavra 'AVIÃO' é:",
+    "opcoes": ["Oxítona", "Paroxítona", "Proparoxítona"],
+    "res_correta": "Oxítona",
+    "dica_nico": "Dica do Nico: a-vi-ÃO — a sílaba forte é a última ÃO, então é oxítona!",
+    "imagem_sugestao": "aviao.png"
+  },
+  {
+    "id": "st17",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'LIVRO'?",
+    "opcoes": ["LI", "VRO"],
+    "res_correta": "LI",
+    "dica_nico": "Dica do Nico: Em LIVRO, a sílaba mais forte é LI! LI-vro — é paroxítona, a penúltima é a mais forte!",
+    "imagem_sugestao": "livro.png"
+  },
+  {
+    "id": "st18",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'CANÇÃO'?",
+    "opcoes": ["CAN", "ÇÃO"],
+    "res_correta": "ÇÃO",
+    "dica_nico": "Dica do Nico: Em CANÇÃO, a sílaba mais forte é ÇÃO! can-ÇÃO — é oxítona, a última é a mais forte!",
+    "imagem_sugestao": "cancao.png"
+  },
+  {
+    "id": "st19",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'NÚMERO'?",
+    "opcoes": ["NÚ", "ME", "RO"],
+    "res_correta": "NÚ",
+    "dica_nico": "Dica do Nico: Em NÚMERO, a sílaba mais forte é NÚ! NÚ-me-ro — é proparoxítona!",
+    "imagem_sugestao": "numero.png"
+  },
+  {
+    "id": "st20",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'ESCOLA'?",
+    "opcoes": ["ES", "CO", "LA"],
+    "res_correta": "CO",
+    "dica_nico": "Dica do Nico: Em ESCOLA, a sílaba mais forte é CO! es-CO-la — é paroxítona, a penúltima é a mais forte!",
+    "imagem_sugestao": "escola.png"
+  },
+  {
+    "id": "st21",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'PÚBLICO'?",
+    "opcoes": ["PÚ", "BLI", "CO"],
+    "res_correta": "PÚ",
+    "dica_nico": "Dica do Nico: Em PÚBLICO, a sílaba mais forte é PÚ! PÚ-bli-co — é proparoxítona!",
+    "imagem_sugestao": "publico.png"
+  },
+  {
+    "id": "st22",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'TAMBOR'?",
+    "opcoes": ["TAM", "BOR"],
+    "res_correta": "BOR",
+    "dica_nico": "Dica do Nico: Em TAMBOR, a sílaba mais forte é BOR! tam-BOR — é oxítona, a última é a mais forte!",
+    "imagem_sugestao": "tambor.png"
+  },
+  {
+    "id": "st23",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'LÁPIS'?",
+    "opcoes": ["LÁ", "PIS"],
+    "res_correta": "LÁ",
+    "dica_nico": "Dica do Nico: Em LÁPIS, a sílaba mais forte é LÁ! LÁ-pis — é paroxítona, a penúltima é a mais forte!",
+    "imagem_sugestao": "lapis.png"
+  },
+  {
+    "id": "st24",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "A palavra 'FÍSICO' é:",
+    "opcoes": ["Oxítona", "Paroxítona", "Proparoxítona"],
+    "res_correta": "Proparoxítona",
+    "dica_nico": "Dica do Nico: FÍ-si-co — a sílaba forte é a antepenúltima FÍ, então é proparoxítona!",
+    "imagem_sugestao": "fisico.png"
+  },
+  {
+    "id": "st25",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'MENINO'?",
+    "opcoes": ["ME", "NI", "NO"],
+    "res_correta": "NI",
+    "dica_nico": "Dica do Nico: Em MENINO, a sílaba mais forte é NI! me-NI-no — é paroxítona!",
+    "imagem_sugestao": "menino.png"
+  },
+  {
+    "id": "st26",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'MACARRÃO'?",
+    "opcoes": ["MA", "CAR", "RÃO"],
+    "res_correta": "RÃO",
+    "dica_nico": "Dica do Nico: Em MACARRÃO, a sílaba mais forte é RÃO! ma-car-RÃO — é oxítona!",
+    "imagem_sugestao": "macarrao.png"
+  },
+  {
+    "id": "st27",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'TÊNIS'?",
+    "opcoes": ["TÊ", "NIS"],
+    "res_correta": "TÊ",
+    "dica_nico": "Dica do Nico: Em TÊNIS, a sílaba mais forte é TÊ! TÊ-nis — é paroxítona, a penúltima é a mais forte!",
+    "imagem_sugestao": "tenis.png"
+  },
+  {
+    "id": "st28",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "A palavra 'CADERNO' é:",
+    "opcoes": ["Oxítona", "Paroxítona", "Proparoxítona"],
+    "res_correta": "Paroxítona",
+    "dica_nico": "Dica do Nico: ca-DER-no — a sílaba forte é a penúltima DER, então é paroxítona!",
+    "imagem_sugestao": "caderno.png"
+  },
+  {
+    "id": "st29",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'AÇÚCAR'?",
+    "opcoes": ["A", "ÇÚ", "CAR"],
+    "res_correta": "ÇÚ",
+    "dica_nico": "Dica do Nico: Em AÇÚCAR, a sílaba mais forte é ÇÚ! a-ÇÚ-car — é paroxítona!",
+    "imagem_sugestao": "acucar.png"
+  },
+  {
+    "id": "st30",
+    "tema": "Sílaba Tônica",
+    "tipo": "escolha",
+    "pergunta": "Qual é a sílaba tônica de 'BICICLETA'?",
+    "opcoes": ["BI", "CI", "CLE", "TA"],
+    "res_correta": "CLE",
+    "dica_nico": "Dica do Nico: Em BICICLETA, a sílaba mais forte é CLE! bi-ci-CLE-ta — é paroxítona!",
+    "imagem_sugestao": "bicicleta.png"
+  },
+  {
+    "id": "rr01",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "CA_O (veículo de quatro rodas)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "RR",
+    "dica_nico": "Dica do Nico: CARRO! Entre duas vogais com som forte, usamos RR. CA-RRO — som vibrante forte!",
+    "imagem_sugestao": "carro.png"
+  },
+  {
+    "id": "rr02",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "CA_OLA (pessoa beata)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "R",
+    "dica_nico": "Dica do Nico: CAROLA! Só um R entre vogais faz som suave. ca-RO-la — som fraquinho!",
+    "imagem_sugestao": "carola.png"
+  },
+  {
+    "id": "rr03",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "CA_ETA (veículo pequeno)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "RR",
+    "dica_nico": "Dica do Nico: CARRETA! Entre vogais com som forte, usamos RR. ca-RRE-ta — som vibrante e forte!",
+    "imagem_sugestao": "carreta.png"
+  },
+  {
+    "id": "rr04",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "CA_AMELO (doce de leite queimado)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "R",
+    "dica_nico": "Dica do Nico: CAMELO — ops! Aqui é CARAMELO (doce)! ca-RA-me-lo — som suave, um R só!",
+    "imagem_sugestao": "caramelo.png"
+  },
+  {
+    "id": "rr05",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "FE_O (metal resistente)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "RR",
+    "dica_nico": "Dica do Nico: FERRO! Entre duas vogais com som forte, usamos RR. FE-RRO — ouça o som forte do R!",
+    "imagem_sugestao": "ferro.png"
+  },
+  {
+    "id": "rr06",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "BA_O (tipo de argila)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "RR",
+    "dica_nico": "Dica do Nico: BARRO! Entre vogais com som forte, usamos RR. BA-RRO — som forte mesmo!",
+    "imagem_sugestao": "barro.png"
+  },
+  {
+    "id": "rr07",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "PA_EDE (estrutura de construção)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "R",
+    "dica_nico": "Dica do Nico: PAREDE! Entre vogais com som suave, usamos só um R. pa-RE-de — som fraquinho!",
+    "imagem_sugestao": "parede.png"
+  },
+  {
+    "id": "rr08",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "TO_E (construção alta)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "RR",
+    "dica_nico": "Dica do Nico: TORRE! Entre vogais com som forte, usamos RR. TO-RRE — som forte e vibrante!",
+    "imagem_sugestao": "torre.png"
+  },
+  {
+    "id": "rr09",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "MA_É (movimento das ondas)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "R",
+    "dica_nico": "Dica do Nico: MARÉ! Som suave de R entre vogais — só um R mesmo. ma-RÉ — suavinho!",
+    "imagem_sugestao": "mare.png"
+  },
+  {
+    "id": "rr10",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "TE_A (solo, chão)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "RR",
+    "dica_nico": "Dica do Nico: TERRA! Entre vogais com som forte, usamos RR. TE-RRA — som bem forte!",
+    "imagem_sugestao": "terra.png"
+  },
+  {
+    "id": "rr11",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["caroça", "carroça"],
+    "res_correta": "carroça",
+    "dica_nico": "Dica do Nico: CARROÇA! Entre vogais com som forte, usamos RR. ca-RRO-ça — som vibrante forte!",
+    "imagem_sugestao": "carroca.png"
+  },
+  {
+    "id": "rr12",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["aroz", "arroz"],
+    "res_correta": "arroz",
+    "dica_nico": "Dica do Nico: ARROZ! Entre vogais com som forte, usamos RR. a-RROZ — o R forte entre vogais pede RR!",
+    "imagem_sugestao": "arroz.png"
+  },
+  {
+    "id": "rr13",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["sereia", "serreia"],
+    "res_correta": "sereia",
+    "dica_nico": "Dica do Nico: SEREIA! O som do R aqui é suave, então só um R. se-REI-a — suavinho!",
+    "imagem_sugestao": "sereia.png"
+  },
+  {
+    "id": "rr14",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["garafa", "garrafa"],
+    "res_correta": "garrafa",
+    "dica_nico": "Dica do Nico: GARRAFA! Entre vogais com som forte, usamos RR. ga-RRA-fa — som forte e vibrante!",
+    "imagem_sugestao": "garrafa.png"
+  },
+  {
+    "id": "rr15",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["cerreja", "cereja"],
+    "res_correta": "cereja",
+    "dica_nico": "Dica do Nico: CEREJA! O som do R aqui é suave — só um R entre vogais. ce-RE-ja — suave!",
+    "imagem_sugestao": "cereja.png"
+  },
+  {
+    "id": "rr16",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["buro", "burro"],
+    "res_correta": "burro",
+    "dica_nico": "Dica do Nico: BURRO! Entre vogais com som forte, usamos RR. bu-RRO — som vibrante e forte!",
+    "imagem_sugestao": "burro.png"
+  },
+  {
+    "id": "rr17",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["varranda", "varanda"],
+    "res_correta": "varanda",
+    "dica_nico": "Dica do Nico: VARANDA! O som do R aqui é suave — só um R entre vogais. va-RAN-da — suave!",
+    "imagem_sugestao": "varanda.png"
+  },
+  {
+    "id": "rr18",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["corer", "correr"],
+    "res_correta": "correr",
+    "dica_nico": "Dica do Nico: CORRER! Entre vogais com som forte, usamos RR. cor-RER — som forte e vibrante!",
+    "imagem_sugestao": "correr.png"
+  },
+  {
+    "id": "rr19",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["horrizonte", "horizonte"],
+    "res_correta": "horizonte",
+    "dica_nico": "Dica do Nico: HORIZONTE! O H é mudo, mas o R após ele tem som forte — mesmo assim, início de palavra usa só R!",
+    "imagem_sugestao": "horizonte.png"
+  },
+  {
+    "id": "rr20",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["boracha", "borracha"],
+    "res_correta": "borracha",
+    "dica_nico": "Dica do Nico: BORRACHA! Entre vogais com som forte, usamos RR. bo-RRA-cha — som forte!",
+    "imagem_sugestao": "borracha.png"
+  },
+  {
+    "id": "rr21",
+    "tema": "R ou RR",
+    "tipo": "regra",
+    "pergunta": "No INÍCIO de uma palavra, o R tem som forte. Quantos R usamos?",
+    "opcoes": ["Um R", "Dois R (RR)"],
+    "res_correta": "Um R",
+    "dica_nico": "Dica do Nico: No início da palavra, sempre um R — RATO, RODA, RUA! O RR só aparece entre vogais!",
+    "imagem_sugestao": "rato.png"
+  },
+  {
+    "id": "rr22",
+    "tema": "R ou RR",
+    "tipo": "regra",
+    "pergunta": "Depois de consoante (N, L, S), o R tem som forte. Quantos R usamos?",
+    "opcoes": ["Um R", "Dois R (RR)"],
+    "res_correta": "Um R",
+    "dica_nico": "Dica do Nico: Depois de consoante, usamos só um R! hon-RA, gen-RO — um R com som forte!",
+    "imagem_sugestao": "honra.png"
+  },
+  {
+    "id": "rr23",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "E_ADO (incorreto, equivocado)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "RR",
+    "dica_nico": "Dica do Nico: ERRADO! Entre vogais com som forte, usamos RR. e-RRA-do — som forte e vibrante!",
+    "imagem_sugestao": "errado.png"
+  },
+  {
+    "id": "rr24",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "CA_INHO (afeto, amor)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "R",
+    "dica_nico": "Dica do Nico: CARINHO! O R aqui tem som suave entre vogais — um R só! ca-RI-nho — suavinho!",
+    "imagem_sugestao": "carinho.png"
+  },
+  {
+    "id": "rr25",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "CO_EDOR (passagem entre cômodos)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "RR",
+    "dica_nico": "Dica do Nico: CORREDOR! Entre vogais com som forte, usamos RR. cor-RE-dor — som forte!",
+    "imagem_sugestao": "corredor.png"
+  },
+  {
+    "id": "rr26",
+    "tema": "R ou RR",
+    "tipo": "lacuna_meio",
+    "pergunta": "MA_IPOSA (inseto com asas coloridas)",
+    "opcoes": ["R", "RR"],
+    "res_correta": "R",
+    "dica_nico": "Dica do Nico: MARIPOSA! O som do R aqui é suave — só um R entre vogais. ma-RI-po-sa — suave!",
+    "imagem_sugestao": "mariposa.png"
+  },
+  {
+    "id": "rr27",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["guereiro", "guerreiro"],
+    "res_correta": "guerreiro",
+    "dica_nico": "Dica do Nico: GUERREIRO! Entre vogais com som forte, usamos RR. guer-REI-ro — RR com som forte!",
+    "imagem_sugestao": "guerreiro.png"
+  },
+  {
+    "id": "rr28",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["pirrulito", "pirulito"],
+    "res_correta": "pirulito",
+    "dica_nico": "Dica do Nico: PIRULITO! O som do R aqui é suave — só um R entre vogais. pi-RU-li-to — suave!",
+    "imagem_sugestao": "pirulito.png"
+  },
+  {
+    "id": "rr29",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["socoro", "socorro"],
+    "res_correta": "socorro",
+    "dica_nico": "Dica do Nico: SOCORRO! Entre vogais com som forte, usamos RR. so-COR-ro — som forte e vibrante!",
+    "imagem_sugestao": "socorro.png"
+  },
+  {
+    "id": "rr30",
+    "tema": "R ou RR",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["barrulho", "barulho"],
+    "res_correta": "barulho",
+    "dica_nico": "Dica do Nico: BARULHO! O som do R aqui é suave — só um R entre vogais. ba-RU-lho — suave!",
+    "imagem_sugestao": "barulho.png"
+  },
+  {
+    "id": "sc01",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "MA_Ã (fruta amarela)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "Ç",
+    "dica_nico": "Dica do Nico: MAÇÃ! Usamos Ç antes de A, O ou U com som de S. ma-ÇÃ — Ç antes de Ã!",
+    "imagem_sugestao": "maca.png"
+  },
+  {
+    "id": "sc02",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "PA_ARINHO (ave pequena)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "SS",
+    "dica_nico": "Dica do Nico: PASSARINHO! SS entre vogais com som forte de S. pas-SA-ri-nho — SS entre vogais!",
+    "imagem_sugestao": "passarinho.png"
+  },
+  {
+    "id": "sc03",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "A_ÚCAR (ingrediente doce)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "Ç",
+    "dica_nico": "Dica do Nico: AÇÚCAR! Ç antes de U com som de S. a-ÇÚ-car — Ç antes de U!",
+    "imagem_sugestao": "acucar.png"
+  },
+  {
+    "id": "sc04",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "VA_OURA (utensílio para varrer)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "SS",
+    "dica_nico": "Dica do Nico: VASSOURA! SS entre vogais com som forte de S. vas-SOU-ra — SS entre vogais!",
+    "imagem_sugestao": "vassoura.png"
+  },
+  {
+    "id": "sc05",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "CA_OLA (panela de barro)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "Ç",
+    "dica_nico": "Dica do Nico: CAÇOLA! Ç antes de O com som de S. ca-ÇO-la — Ç antes de O!",
+    "imagem_sugestao": "cacola.png"
+  },
+  {
+    "id": "sc06",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "O_O (osso do corpo)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "SS",
+    "dica_nico": "Dica do Nico: OSSO! Entre vogais com som forte de S, usamos SS. OS-SO — SS entre vogais!",
+    "imagem_sugestao": "osso.png"
+  },
+  {
+    "id": "sc07",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "ALMO_O (refeição do meio-dia)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "Ç",
+    "dica_nico": "Dica do Nico: ALMOÇO! Ç antes de O com som de S. al-mo-ÇO — Ç antes de O!",
+    "imagem_sugestao": "almoco.png"
+  },
+  {
+    "id": "sc08",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "MA_A (massa de pão)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "SS",
+    "dica_nico": "Dica do Nico: MASSA! Entre vogais com som forte de S, usamos SS. MA-SSA — SS entre vogais!",
+    "imagem_sugestao": "massa.png"
+  },
+  {
+    "id": "sc09",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "BER_O (cama de bebê)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "Ç",
+    "dica_nico": "Dica do Nico: BERÇO! Ç antes de O com som de S. ber-ÇO — Ç antes de O!",
+    "imagem_sugestao": "berco.png"
+  },
+  {
+    "id": "sc10",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "PO_O (buraco com água)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "Ç",
+    "dica_nico": "Dica do Nico: POÇO! Ç antes de O com som de S. PO-ÇO — Ç antes de O! Diferente de POSSO (verbo)!",
+    "imagem_sugestao": "poco.png"
+  },
+  {
+    "id": "sc11",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["abraso", "abraço"],
+    "res_correta": "abraço",
+    "dica_nico": "Dica do Nico: ABRAÇO! Ç antes de O com som de S. a-bra-ÇO — Ç antes de O!",
+    "imagem_sugestao": "abraco.png"
+  },
+  {
+    "id": "sc12",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["ossinho", "oçinho"],
+    "res_correta": "ossinho",
+    "dica_nico": "Dica do Nico: OSSINHO! Entre vogais com som forte de S, usamos SS. os-SI-nho — SS entre vogais!",
+    "imagem_sugestao": "ossinho.png"
+  },
+  {
+    "id": "sc13",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["lasso", "laço"],
+    "res_correta": "laço",
+    "dica_nico": "Dica do Nico: LAÇO! Ç antes de O com som de S. la-ÇO — Ç antes de O!",
+    "imagem_sugestao": "laco.png"
+  },
+  {
+    "id": "sc14",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["açado", "assado"],
+    "res_correta": "assado",
+    "dica_nico": "Dica do Nico: ASSADO! Entre vogais com som forte de S, usamos SS. as-SA-do — SS entre vogais!",
+    "imagem_sugestao": "assado.png"
+  },
+  {
+    "id": "sc15",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual é o BURACO COM ÁGUA?",
+    "opcoes": ["posso", "poço"],
+    "res_correta": "poço",
+    "dica_nico": "Dica do Nico: POÇO é o buraco com água! Ç antes de O. po-ÇO — Ç antes de O! POSSO é o verbo poder!",
+    "imagem_sugestao": "poco.png"
+  },
+  {
+    "id": "sc16",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual é o VERBO que significa 'ser capaz'?",
+    "opcoes": ["posso", "poço"],
+    "res_correta": "posso",
+    "dica_nico": "Dica do Nico: EU POSSO (verbo poder)! Entre vogais com som forte de S, usamos SS. pos-SO — SS entre vogais!",
+    "imagem_sugestao": "posso.png"
+  },
+  {
+    "id": "sc17",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["cassador", "caçador"],
+    "res_correta": "caçador",
+    "dica_nico": "Dica do Nico: CAÇADOR! Ç antes de A com som de S. ca-ÇA-dor — Ç antes de A!",
+    "imagem_sugestao": "cacador.png"
+  },
+  {
+    "id": "sc18",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["paçagem", "passagem"],
+    "res_correta": "passagem",
+    "dica_nico": "Dica do Nico: PASSAGEM! Entre vogais com som forte de S, usamos SS. pas-SA-gem — SS entre vogais!",
+    "imagem_sugestao": "passagem.png"
+  },
+  {
+    "id": "sc19",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["tersso", "terço"],
+    "res_correta": "terço",
+    "dica_nico": "Dica do Nico: TERÇO! Ç antes de O com som de S. ter-ÇO — Ç antes de O!",
+    "imagem_sugestao": "terco.png"
+  },
+  {
+    "id": "sc20",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["groço", "grosso"],
+    "res_correta": "grosso",
+    "dica_nico": "Dica do Nico: GROSSO! Entre vogais com som forte de S, usamos SS. gros-SO — SS entre vogais!",
+    "imagem_sugestao": "grosso.png"
+  },
+  {
+    "id": "sc21",
+    "tema": "SS ou Ç",
+    "tipo": "regra",
+    "pergunta": "O Ç aparece antes de quais vogais?",
+    "opcoes": ["A, O, U", "E, I", "Todas as vogais"],
+    "res_correta": "A, O, U",
+    "dica_nico": "Dica do Nico: Ç aparece antes de A, O e U! Nunca antes de E ou I — nesses casos usamos C! ça, ço, çu!",
+    "imagem_sugestao": "regra_c_cedilha.png"
+  },
+  {
+    "id": "sc22",
+    "tema": "SS ou Ç",
+    "tipo": "regra",
+    "pergunta": "O SS aparece em qual posição na palavra?",
+    "opcoes": ["No início da palavra", "Entre duas vogais", "No final da palavra"],
+    "res_correta": "Entre duas vogais",
+    "dica_nico": "Dica do Nico: SS só aparece entre duas vogais! MAS-SA, PAS-SA-ro — sempre entre vogais! Nunca no início!",
+    "imagem_sugestao": "regra_ss.png"
+  },
+  {
+    "id": "sc23",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "LAN_A (objeto pontudo para jogar)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "Ç",
+    "dica_nico": "Dica do Nico: LANÇA! Ç antes de A com som de S. lan-ÇA — Ç antes de A!",
+    "imagem_sugestao": "lanca.png"
+  },
+  {
+    "id": "sc24",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "PA_O (passo de dança)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "SS",
+    "dica_nico": "Dica do Nico: PASSO! Entre vogais com som forte de S, usamos SS. PAS-SO — SS entre vogais!",
+    "imagem_sugestao": "passo.png"
+  },
+  {
+    "id": "sc25",
+    "tema": "SS ou Ç",
+    "tipo": "lacuna_meio",
+    "pergunta": "FOR_A (vigor, potência)",
+    "opcoes": ["SS", "Ç"],
+    "res_correta": "Ç",
+    "dica_nico": "Dica do Nico: FORÇA! Ç antes de A com som de S. for-ÇA — Ç antes de A!",
+    "imagem_sugestao": "forca.png"
+  },
+  {
+    "id": "sc26",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["cossturar", "costurar"],
+    "res_correta": "costurar",
+    "dica_nico": "Dica do Nico: COSTURAR! O S fica entre consoante e vogal — um S só basta! cos-TU-rar — S simples!",
+    "imagem_sugestao": "costurar.png"
+  },
+  {
+    "id": "sc27",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["reçado", "recado"],
+    "res_correta": "recado",
+    "dica_nico": "Dica do Nico: RECADO! Aqui o C tem som de K — re-CA-do! Não é som de S, então não usamos Ç!",
+    "imagem_sugestao": "recado.png"
+  },
+  {
+    "id": "sc28",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["trassado", "traçado"],
+    "res_correta": "traçado",
+    "dica_nico": "Dica do Nico: TRAÇADO! Ç antes de A com som de S. tra-ÇA-do — Ç antes de A!",
+    "imagem_sugestao": "tracado.png"
+  },
+  {
+    "id": "sc29",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["reçaca", "ressaca"],
+    "res_correta": "ressaca",
+    "dica_nico": "Dica do Nico: RESSACA! Entre vogais com som forte de S, usamos SS. res-SA-ca — SS entre vogais!",
+    "imagem_sugestao": "ressaca.png"
+  },
+  {
+    "id": "sc30",
+    "tema": "SS ou Ç",
+    "tipo": "escolha",
+    "pergunta": "Qual escrita está correta?",
+    "opcoes": ["adiçionar", "adicionar"],
+    "res_correta": "adicionar",
+    "dica_nico": "Dica do Nico: ADICIONAR! O C aqui tem som de S antes de I — a-di-CI-o-nar! Antes de E e I usamos C, não Ç!",
+    "imagem_sugestao": "adicionar.png"
+  }
+]
